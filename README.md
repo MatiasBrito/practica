@@ -1,2 +1,0 @@
-# practica
-Aprender sobre codigos
